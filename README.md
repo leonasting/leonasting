@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on Exploring the Reinforcement Learing and Machine learnging as a student of MS-AI from SJSU
+- 🔭 I’m currently working on Exploring the Reinforcement Learing and Machine learning as a student of MS-AI from SJSU
 - 📫 How to reach me: leonasting@gmail.com
 
 
