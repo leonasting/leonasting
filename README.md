@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on Exploring the Reinforcement Learing and Machine learning as a student of MS-AI from SJSU
-- 📫 How to reach me: leonasting@gmail.com
+- 📫 How to reach me: alavi.khan09@gmail.com
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=leonasting&show_icons=true&locale=en&layout=compact" alt="leonasting" /></p>
